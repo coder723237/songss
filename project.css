@@ -1,5 +1,6 @@
 html{
   font-size: 80px;
+  size: 80px;
 }
 
 body{
@@ -21,4 +22,8 @@ a{
 
 #a{
   color: red;
+}
+
+.audio{
+  size: large;
 }
